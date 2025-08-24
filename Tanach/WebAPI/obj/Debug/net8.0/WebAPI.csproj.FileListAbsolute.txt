@@ -1,0 +1,82 @@
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\appsettings.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.endpoints.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.exe
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Bll.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Dal.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\DTO.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Bll.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Dal.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\DTO.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\appsettings.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.exe
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\WebAPI.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Bll.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Dal.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\DTO.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Bll.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\Dal.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\bin\Debug\net8.0\DTO.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CopyComplete
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll

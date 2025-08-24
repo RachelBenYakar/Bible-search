@@ -1,0 +1,30 @@
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\Dal.deps.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\Dal.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\Dal.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\DTO.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\DTO.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\refint\Dal.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\ref\Dal.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\Dal.deps.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\Dal.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\Dal.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\DTO.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\bin\Debug\net8.0\DTO.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.csproj.CopyComplete
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\refint\Dal.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\Dal.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\Dal\obj\Debug\net8.0\ref\Dal.dll

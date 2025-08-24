@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94C89BF-943F-47F6-9497-84F18C3FC783}|WebAPI\\WebAPI.csproj|s:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\tanach\\webapi\\controllers\\tanachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94C89BF-943F-47F6-9497-84F18C3FC783}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\tanachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D167B-8B23-46DC-9153-E887548FE20D}|Dal\\Dal.csproj|s:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\tanach\\dal\\tora.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD3D167B-8B23-46DC-9153-E887548FE20D}|Dal\\Dal.csproj|solutionrelative:dal\\tora.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21E8074-22C2-4FEC-A5DE-52B2A166FFC8}|Bll\\Bll.csproj|s:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\tanach\\bll\\parashahservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21E8074-22C2-4FEC-A5DE-52B2A166FFC8}|Bll\\Bll.csproj|solutionrelative:bll\\parashahservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945DC3FF-11B8-4B24-A805-42ADDD715392}|Tanach\\Tanach.csproj|s:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\tanach\\tanach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945DC3FF-11B8-4B24-A805-42ADDD715392}|Tanach\\Tanach.csproj|solutionrelative:tanach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3D167B-8B23-46DC-9153-E887548FE20D}|Dal\\Dal.csproj|s:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\tanach\\dal\\parashahdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3D167B-8B23-46DC-9153-E887548FE20D}|Dal\\Dal.csproj|solutionrelative:dal\\parashahdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TanachController.cs",
+              "DocumentMoniker": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\WebAPI\\Controllers\\TanachController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\TanachController.cs",
+              "ToolTip": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\WebAPI\\Controllers\\TanachController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\TanachController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:56:41.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tora.json",
+              "DocumentMoniker": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\Dal\\tora.json",
+              "RelativeDocumentMoniker": "Dal\\tora.json",
+              "ToolTip": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\Dal\\tora.json",
+              "RelativeToolTip": "Dal\\tora.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T12:43:29.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\Tanach\\Form1.cs",
+              "RelativeDocumentMoniker": "Tanach\\Form1.cs",
+              "ToolTip": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\Tanach\\Form1.cs",
+              "RelativeToolTip": "Tanach\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:53:20.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParashahDal.cs",
+              "DocumentMoniker": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\Dal\\ParashahDal.cs",
+              "RelativeDocumentMoniker": "Dal\\ParashahDal.cs",
+              "ToolTip": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\Dal\\ParashahDal.cs",
+              "RelativeToolTip": "Dal\\ParashahDal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:50:55.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParashahService.cs",
+              "DocumentMoniker": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\Bll\\ParashahService.cs",
+              "RelativeDocumentMoniker": "Bll\\ParashahService.cs",
+              "ToolTip": "S:\\\u05DE\u05E9\u05D5\u05EA\u05E3 \u05DB\u05DC\u05DC\u05D9\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05EA\u05DC\u05DE\u05D9\u05D3\u05D5\u05EA \u05D4\u05DE\u05D3\u05D4\u05D9\u05DE\u05D5\u05EA\\\u05E8\u05D7\u05DC\u05D9 \u05D1\u05DF \u05D9\u05E7\u05E8\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05EA\u05E0\u05DA\\Tanach\\Bll\\ParashahService.cs",
+              "RelativeToolTip": "Bll\\ParashahService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:50:48.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

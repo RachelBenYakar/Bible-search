@@ -1,0 +1,22 @@
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\bin\Debug\net8.0\DTO.deps.json
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\bin\Debug\net8.0\DTO.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\bin\Debug\net8.0\DTO.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\refint\DTO.dll
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.pdb
+S:\משותף כללי\הנדסאים שנה ב\תלמידות המדהימות\רחלי בן יקר\C#\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\ref\DTO.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\bin\Debug\net8.0\DTO.deps.json
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\bin\Debug\net8.0\DTO.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\bin\Debug\net8.0\DTO.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\refint\DTO.dll
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\DTO.pdb
+G:\הנדסאים\שנה ב\C#\פרויקטים\פרויקט תנך\Tanach\DTO\obj\Debug\net8.0\ref\DTO.dll
